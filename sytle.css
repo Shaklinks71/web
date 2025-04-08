@@ -4,7 +4,7 @@ body{
 
 marquee{
     font-size: 30px;
-    color: white;
+    color: black;
 }
 
 @media (max-width: 380px) {
