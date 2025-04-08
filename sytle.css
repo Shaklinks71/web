@@ -1,0 +1,16 @@
+body{
+    background: olive;
+}
+
+marquee{
+    font-size: 30px;
+    color: white;
+}
+
+@media (max-width: 380px) {
+   body, marquee{
+    background-color: red;
+    color: blue;
+   }
+
+}
